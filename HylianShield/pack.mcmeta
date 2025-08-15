@@ -12,5 +12,9 @@
         }
       ]
     }
+    "supported_formats": {
+      "min_inclusive": 43,
+      "max_inclusive": 64
+    }
   }
 }
