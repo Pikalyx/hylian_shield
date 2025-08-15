@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": {
+      "text": "Hylian Shield Pack\n",
+      "color": "gold",
+      "extra": [
+        {
+          "text": "A pack by Pikalyx",
+          "color": "gray",
+          "italic": true
+        }
+      ]
+    }
+  }
+}
