@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Hylian Shield",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hylian_shield"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/shield"
+    }
+  }
+}
