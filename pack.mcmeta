@@ -6,15 +6,11 @@
       "color": "gold",
       "extra": [
         {
-          "text": "A pack by Pikalyx",
+          "text": "Feel like Link in Minecraft!",
           "color": "gray",
           "italic": true
         }
       ]
-    }
-    "supported_formats": {
-      "min_inclusive": 43,
-      "max_inclusive": 64
     }
   }
 }
