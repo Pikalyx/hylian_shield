@@ -1,0 +1,31 @@
+{
+  "format_version": "1.0",
+  "item_predicates": {
+    "items": ["minecraft:shield"],
+    "nbt": {
+      "display": {
+        "Name": "{\"text\":\"Hylian Shield\"}"
+      }
+    },
+    "blocking": true
+  },
+  "model": "emf/items/hylian_shield/hylian_shield",
+  "textures": {
+    "layer0": "emf/items/hylian_shield/hylian_shield",
+    "particle": "emf/items/hylian_shield/hylian_shield"
+  },
+  "display": {
+    "thirdperson_righthand":{"rotation":[0,90,0],"translation":[3.25,-2,-0.25]},
+    "thirdperson_lefthand":{"rotation":[0,90,0],"translation":[3,-2,3]},
+    "firstperson_righthand":{"rotation":[0,-180,0],"translation":[0,-2,0]},
+    "firstperson_lefthand":{"rotation":[0,-180,0],"translation":[0,-2,0]},
+    "ground":{"translation":[0,3.75,2.25]},
+    "gui":{"translation":[0,0.5,0]},
+    "head":{"rotation":[0,-180,0],"translation":[0,0,-7.5]},
+    "fixed":{"rotation":[0,-180,0]}
+  },
+  "groups":[
+    {"name":"shield face","origin":[11,2,7],"color":0,"children":[0,1,2,3,4]},
+    {"name":"handle","origin":[9,3,5],"color":0,"children":[5,6,7]}
+  ]
+}
